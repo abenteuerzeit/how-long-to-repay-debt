@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How-Long-To-Pay-It-Off", "How-Long-To-Pay-It-Off\How-Long-To-Pay-It-Off.csproj", "{48B90B86-BFB9-4649-B739-02771CBC6CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{F242DCF2-A171-4378-8BD4-DC78A7889948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B90B86-BFB9-4649-B739-02771CBC6CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B90B86-BFB9-4649-B739-02771CBC6CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B90B86-BFB9-4649-B739-02771CBC6CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B90B86-BFB9-4649-B739-02771CBC6CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F242DCF2-A171-4378-8BD4-DC78A7889948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F242DCF2-A171-4378-8BD4-DC78A7889948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F242DCF2-A171-4378-8BD4-DC78A7889948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F242DCF2-A171-4378-8BD4-DC78A7889948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
