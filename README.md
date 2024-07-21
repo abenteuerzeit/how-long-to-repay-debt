@@ -39,9 +39,15 @@ To use this project, you need to set up the project and configure it properly. F
     dotnet build
     ```
 
+You can run the project on [Replit](https://replit.com/@abenteuerzeit/how-long-to-repay-debt?v=1) or [GitHub](https://github.dev/abenteuerzeit/how-long-to-repay-debt/) too. 
+
+When you open the terminal on GitHub, be sure to cd into the project folder.
+
+https://github.com/user-attachments/assets/f70cff73-cee3-4bcb-9684-49dba4c6c146
+
 ### Configuration
 
-Create an `appsettings.json` file in the root directory of the project with the following structure:
+Update the `appsettings.json` file in the root directory of the project to customize the output:
 
 ```json
 {
