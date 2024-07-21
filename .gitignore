@@ -422,3 +422,6 @@ FodyWeavers.xsd
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+.replit
+replit.nix
